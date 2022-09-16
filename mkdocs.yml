@@ -38,12 +38,12 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-site_name: RCSV to JSON Converter
+site_name: CSV to JSON Converter
 site_author: Tiffany White
 copyright: "Copyright &copy; 2022 Tiffany White"
 repo_url: https://github.com/twhite96/rss-feed-creator
 repo_name: twhite96/cli-converter
-site_url: "https://rsscreator.tiff.run/"
+site_url: "https://csv-converter.tiff.run/"
 dev_addr: "0.0.0.0:4000"
 site_description: Docs for a feed creator CLI built with Python.
 markdown_extensions:
