@@ -1,10 +1,10 @@
 nav:
   - Home: index.md
-  - How to Use:
-    - Getting Started: HowToUse/Getting Started.md
-    - Install: HowToUse/Install.md
-    - Usage: HowToUse/Usage.md
-    - Options: HowToUse/Options.md
+  - API:
+    - Getting Started: API/Getting Started.md
+    - Install: API/Install.md
+    - Usage: API/Usage.md
+    - Options: API/Options.md
 theme:
   name: material
   logo: "img/logo.svg"
@@ -38,13 +38,13 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-site_name: RSS Feed Creator
+site_name: RCSV to JSON Converter
 site_author: Tiffany White
 copyright: "Copyright &copy; 2022 Tiffany White"
 repo_url: https://github.com/twhite96/rss-feed-creator
-repo_name: twhite96/rss-feed-creator
+repo_name: twhite96/cli-converter
 site_url: "https://rsscreator.tiff.run/"
-dev_addr: "0.0.0.0:3001"
+dev_addr: "0.0.0.0:4000"
 site_description: Docs for a feed creator CLI built with Python.
 markdown_extensions:
   - admonition

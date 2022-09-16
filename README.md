@@ -1,11 +1,6 @@
-
 # CSV to JSON Converter
 
 > Convert CSV files to JSON using a CLI written in Python
-
-<p align="center">
-  <img style="margin-right: 6rem;"src="img/logo-header.svg" width="200"/>
-</p>
 
 ## API Reference
 
@@ -112,5 +107,4 @@ If you have any feedback, please reach out to us at feedback@tiffanyrwhite.com
 ## Support
 
 For support, please raise an issue.
-
 
