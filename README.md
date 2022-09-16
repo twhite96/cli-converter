@@ -1,13 +1,17 @@
+
 # CSV to JSON Converter
 
 > Convert CSV files to JSON using a CLI written in Python
 
-## API Reference
+<p align="center">
+  <img style="margin-right: 6rem;"src="img/logo-header.svg" width="200"/>
+</p>
 
-#### Get all items
+## API
 
 
-| Parameter | Type     | Description                |
+
+| Options | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
 
@@ -17,13 +21,13 @@
   GET /api/items/${id}
 ```
 
-| Parameter | Type     | Description                       |
+<!-- | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
+| `id`      | `string` | **Required**. Id of item to fetch | -->
 
-#### add(num1, num2)
+<!-- #### add(num1, num2)
 
-Takes two numbers and returns the sum.
+Takes two numbers and returns the sum. -->
 
 
 ## Authors
@@ -32,56 +36,39 @@ Takes two numbers and returns the sum.
 
 
 ## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
-
+![Maintenance](https://img.shields.io/maintenance/yes/2022?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/twhite96/cli-converter?color=%23ff824a&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/twhite96/cli-converter?color=%2300bfff&style=for-the-badge)
 ## Installation
 
-Install my-project with npm
+Install the package with `pip`:
 
 ```bash
 pip install
 ```
 
-Or with cURL
+Or with `cURL`
 
 ## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
 
 
 ## Usage/Examples
 
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
+```bash
+python convert.py file.csv
 ```
 
-
-## Documentation
-
-[Documentation](https://csv-to-json.tiff.run)
 
 
 ## Demo
 
-Insert gif or link to demo
+<!-- Insert gif or link to demo -->
 
 
 ## Tech Stack
 
 **Language**: Python
+
 **Dependencies** Typer, Click, Rich
 
 
@@ -96,7 +83,7 @@ Please adhere to this project's `code of conduct`.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at feedback@tiffanyrwhite.com
+If you have any feedback, please reach out to me at <a href="mailto:feedback@tiffanyrwhite.com">my feedback email</a>.
 
 
 ## License
@@ -106,5 +93,6 @@ If you have any feedback, please reach out to us at feedback@tiffanyrwhite.com
 
 ## Support
 
-For support, please raise an issue.
+For support, please [raise an issue](https://github.com/twhite96/cli-converter/issues/new).
+
 
