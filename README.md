@@ -15,11 +15,11 @@
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
 
-#### Get item
-
+<!-- #### Get item -->
+<!-- 
 ```http
   GET /api/items/${id}
-```
+``` -->
 
 <!-- | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
@@ -69,7 +69,12 @@ python convert.py file.csv
 
 **Language**: Python
 
-**Dependencies** Typer, Click, Rich
+**Dependencies**
+
+- Typer
+- Click
+- Rich
+- BeautifulSoup
 
 
 ## Contributing
