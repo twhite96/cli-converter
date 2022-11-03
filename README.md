@@ -1,3 +1,7 @@
+# **I AM ARCHIVING THIS PROJECT UNTIL FURTHER NOTICE.**
+
+> Long story short, I need to focus on my core skillset, which is frontend/full stack web development. Will come back to this once I have more time.
+
 
 # CSV to JSON Converter
 
