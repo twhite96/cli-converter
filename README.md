@@ -8,7 +8,7 @@
 > Convert CSV files to JSON using a CLI written in Python
 
 <p align="center">
-  <img style="margin-right: 6rem;"src="img/logo-header.svg" width="200"/>
+  <img style="margin-right: 6rem;"src="docs/img/logo-header.svg" width="200"/>
 </p>
 
 ## API
